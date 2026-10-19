@@ -1,4 +1,4 @@
-function JUDUL() {
+function KartuMenu() {
     Nama,harga,kategori = 'Makanan'
 } {
     return(
@@ -10,4 +10,4 @@ function JUDUL() {
     )
 }
 
-export default JUDUL
+export default KartuMenu

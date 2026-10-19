@@ -7,15 +7,16 @@ export default function App (){
     fontsize: '20px'
 
 }
-  }
+
   return (
 
     <div className="">
-      <h1 className="JUDUL" style= {gayaJudul}>arvin</h1>
+      <h1 className= "JUDUL" style = {textstyle}>arvin</h1>
       <h3>selamat datang</h3>
       <h3>saldo akun ini senilai = {N} </h3>
       <button>klik untuk bayar</button>
     </div>
 
+
   )
-  
+    }
